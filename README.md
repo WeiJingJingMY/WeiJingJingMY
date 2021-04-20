@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript、CSS、algorithm
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 848258323@live.com
+- 📫 How to reach me www.848258323@live.com
 
 <!---
 WeiJingJingMY/WeiJingJingMY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
