@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeiJingJingMY
 - 👀 I’m interested in JavaScript、CSS、algorithm
 - 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking woman's beauty ...
 - 📫 How to reach me www.848258323@live.com
 
 <!---
